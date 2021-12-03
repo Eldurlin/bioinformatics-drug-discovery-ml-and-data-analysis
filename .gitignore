@@ -9,7 +9,7 @@
 .DS_Store
 __MACOSX
 PaDEL-Descriptor
-.sh
+*.sh
 
 # Windows
 Thumbs.db
